@@ -1,10 +1,14 @@
 # Digital-Portfolio
-A one-page portfolio website built to introduce yourself, display skills, highlight top projects, and share your current focus.
+A page-based portfolio website built to introduce yourself, display skills, highlight top projects, and share your current focus.
 
-## Files
-- `index.html` — main portfolio page
-- `styles.css` — responsive site styling
-- `script.js` — mobile navigation toggle and smooth behavior
+## Pages
+- `index.html` — home / hero landing page
+- `about.html` — about me
+- `projects.html` — projects portfolio
+- `skills.html` — skills and tech stack
+- `experience.html` — experience and activities
+- `focus.html` — current focus
+- `contact.html` — contact details
 
 ## Run locally
 Open `index.html` in your browser, or serve the folder with a local server if you prefer:
